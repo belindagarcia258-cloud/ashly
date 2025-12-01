@@ -18,6 +18,8 @@ public class praxctica12 {
                 System.out.println("5.- Asia");
               System.out.println("¿Que zona?");
               zona= leer.nextInt();
+              
+              System.out.println("");
     }
     
 }
